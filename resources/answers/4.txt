@@ -1,0 +1,4 @@
+Se você perceber que o notebook não liga, você pode tentar fazer a reinicialização forçada primeiro. Alguns notebook com esse tipo de problema serão resolvidos.
+1- Remova a bateria (alguns modelos podem não remover a bateria) e o adaptador AC. NOTA: Por favor, não remova o adaptador AC.
+2- Pressione e segure o botão Liga / Desliga por 40 segundos.
+3- Reinstale a bateria (para modelos de bateria removíveis) e conecte o adaptador CA e tente reiniciar o notebook.

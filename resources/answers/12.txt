@@ -1,0 +1,2 @@
+Para instalar a impressora da epson, basta acessar o site oficial da marca no link a seguir: https://epson.com.br/Suporte/Impressoras/sh/s1 e baixar o driver correspondente ao seu modelo.
+- Uma vez baixado execute o arquivo para prosseguir com o processo correto de instalação.

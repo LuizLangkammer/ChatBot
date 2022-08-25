@@ -1,0 +1,9 @@
+Tente as seguintes etapas de solução de problemas para resolver seus problemas:
+- A atualização do software geralmente ajuda a estabilidade e otimização do sistema, portanto, recomendamos que você verifique e atualize frequentemente para a versão mais recente do seu laptop
+- Execute o Disgnóstico do Sistema via MyASUS
+O usuário pode inspecionar se o dispositivo de hardware está bom pelo Diagnóstico de Hardware via MyASUS e executar verificações adicionais no Erro de Tela Azul. Se ocorrer algum erro após o diagnóstico, recomendamos que você visite o centro de reparos ASUS para substituir o dispositivo de hardware.
+- Verifique os periféricos externos ou quaisquer dispositivos de hardware instalados / alterados
+
+Às vezes, os dispositivos externos conectados ao seu computador podem ser a causa dos erros de tela azul, então tente removê-los, como discos rígidos externos, impressoras, cartões de memória, ODD externo (se o seu computador estiver com ODD interno, remova o CD / DVDs), dongles, etc. Depois disso, reinicie o computador. Se você não tiver o problema depois de reiniciar o computador, o dispositivo externo pode ser a causa do problema. Recomendamos que você não use este dispositivo e entre em contato com o fabricante do dispositivo para obter suporte.
+
+Se você não usar nenhum dispositivo externo ou o problema persistir após removê-los, confirme se você já instalou / substituiu algum dispositivo de hardware, como unidades de disco (HDD ou SSD) ou módulos de memória. O problema de compatibilidade pode ser a causa e existir entre os novos dispositivos de hardware e produtos / sistema ASUS, então tente remover o dispositivo de hardware. Se você não enfrentar o problema depois de remover o dispositivo de hardware, recomendamos que você não use este dispositivo e entre em contato com o fabricante do dispositivo para obter suporte.
